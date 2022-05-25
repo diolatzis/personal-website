@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+  
+  {%- if site.publications.size > 0 -%}
+    <h2 class="publication-list-heading">{{ page.list_title | default: "Publications" }}</h2>
+	 {% for publication in site.publications %}
+		<ul>
+			<li>
+				<div class="publication">
+					<a class="post-link" href="{{ publication.url | relative_url }}">
+						<img class="publication-preview" src="{{ publication.teaser }}">
+					</a>
+					<h2>
+						<a class="post-link" href="{{ publication.url | relative_url }}">
+							{{ publication.title | escape }}
+						</a>
+					</h2>
+					<div class="publication-authors">{{ publication.authors }} </div>
+					<div class="publication-info"> {{ publication.where | escape }} </div>
+					{%- if publication.file -%}<a href={{ publication.file}}><img class="publication-icon" src="{{ "/assets/file.png" | relative_url }}"></img> <span class="publication-icon-title">Paper</span></a>{%- endif -%}
+					{%- if publication.code -%}<a href={{ publication.code}}><img class="publication-icon" src={{ "/assets/code.png" | relative_url }}></img> <span class="publication-icon-title">Code</span></a>{%- endif -%}
+					{%- if publication.supplemental -%}<a href={{ publication.supplemental}}><img class="publication-icon" src={{ "/assets/supp.png" | relative_url }}></img> <span class="publication-icon-title">Interactive Supplemental Page</span></a>{%- endif -%}
+					{%- if publication.webpage -%}<a href={{ publication.webpage}}><img class="publication-icon" src={{ "/assets/supp.png" | relative_url }}></img> <span class="publication-icon-title">Project Webpage</span></a>{%- endif -%}
+					{%- if publication.presentation -%}<a href={{ publication.presentation}}><img class="publication-icon" src={{ "/assets/presentation.png" | relative_url }}></img> <span class="publication-icon-title">Presentation</span></a>{%- endif -%}
+				</div>
+			</li>
+		</ul>
+	{% endfor %}
+  {%- endif -%}
+  
+  {%- if site.posts.size > 0 -%}
+    <h2 class="publication-list-heading">{{ page.list_title | default: "Updates" }}</h2>
+	<ul>
+	  {% for post in site.posts %}
+		<li>
+		  <h3>{{ post.when }}</h3>
+		  <h4>{{ post.content }}</h4>
+		</li>
+	  {% endfor %}
+	</ul>
+   {%- endif -%}
+
+</div>
