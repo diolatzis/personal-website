@@ -6,7 +6,7 @@ code: https://gitlab.inria.fr/sdiolatz/practical-product-path-guiding
 presentation: https://youtu.be/CAa2APz1hUc?t=45
 file: http://www-sop.inria.fr/reves/Basilic/2020/DGJND20/practical_product_path_guiding_authors.pdf
 supplemental: https://repo-sam.inria.fr/fungraph/practical_product_path_guiding/
-teaser: https://gitlab.inria.fr/sdiolatz/practical-product-path-guiding/uploads/54c1899936910a5acd754f005197e87e/rect5434.png
+teaser_img: https://gitlab.inria.fr/sdiolatz/practical-product-path-guiding/uploads/54c1899936910a5acd754f005197e87e/rect5434.png
 ---
 
 # Authors

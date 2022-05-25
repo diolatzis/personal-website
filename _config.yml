@@ -23,8 +23,8 @@ title: Stavros Diolatzis
 email: stavros.diolatzis@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student @ GraphDeco Inria
-baseurl: "/members/Stavros.Diolatzis/" # the subpath of your site, e.g. /blog
-url: "https://www-sop.inria.fr/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://diolatzis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: StavrosDiol
 github_username:  diolatzis
 gitlab_username:  sdiolatz

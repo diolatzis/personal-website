@@ -4,7 +4,8 @@ title: Active Exploration for Neural Global Illumination of Variable Scenes
 authors: <b><a href="{{ "/" | relative_url }}">Stavros Diolatzis</a></b>, <a href="https://julienphilip.com/">Julien Philip</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
 file: http://www-sop.inria.fr/reves/Basilic/2022/DPD22/active-exploration.pdf
 webpage: https://repo-sam.inria.fr/fungraph/active-exploration/
-teaser: https://gitlab.inria.fr/sdiolatz/active-exploration-neural-rendering-paper/uploads/21177273df3bb26cad635fdf5a804b55/image271.png
+teaser_vid: https://gitlab.inria.fr/fungraph/active-exploration/uploads/ad8cc0a87044ea417a82b1e132ce1abc/vid.mp4
+code: https://github.com/diolatzis/active-exploration
 ---
 
 # Authors
@@ -13,6 +14,7 @@ teaser: https://gitlab.inria.fr/sdiolatz/active-exploration-neural-rendering-pap
 
 <p float="left">
   <a href="http://www-sop.inria.fr/reves/Basilic/2022/DPD22/active-exploration.pdf"><img src="../assets/file.png" width="30" style="vertical-align:middle;margin:0px 5pt 0px"/><span>Paper</span></a>
+  <a href="https://github.com/diolatzis/active-exploration"><img src="../assets/code.png" width="30" style="vertical-align:middle;margin:0px 5pt 0px"/><span>Code</span></a>
   <a href="https://repo-sam.inria.fr/fungraph/active-exploration/"><img src="../assets/supp.png" width="30" style="vertical-align:middle;margin:0px 5pt 0px"/><span>Project Website</span></a>
 </p>
 

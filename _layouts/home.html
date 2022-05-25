@@ -16,7 +16,8 @@ layout: default
 			<li>
 				<div class="publication">
 					<a class="post-link" href="{{ publication.url | relative_url }}">
-						<img class="publication-preview" src="{{ publication.teaser }}">
+					{%- if publication.teaser_vid -%}<video class="publication-preview" autoplay muted src="{{ publication.teaser_vid }}"/>{%- endif -%}
+					{%- if publication.teaser_img -%}<img class="publication-preview" src="{{ publication.teaser_img }}">{%- endif -%}
 					</a>
 					<h2>
 						<a class="post-link" href="{{ publication.url | relative_url }}">
