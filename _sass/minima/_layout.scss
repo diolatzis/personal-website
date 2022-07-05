@@ -210,7 +210,7 @@
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.6);
 }
 
 
@@ -276,6 +276,7 @@
 
 .publication {
 	margin-bottom: 60pt;
+	text-align: start;
 }
 
 .publication-preview {
@@ -301,13 +302,13 @@
 }
 
 .publication-info {
-  font-size: $small-font-size;
+  @include relative-font-size(1.1);
   color: $grey-color;  
   margin-bottom: 5pt;
 }
 
 .publication-authors {
-  @include relative-font-size(0.9);
+  @include relative-font-size(1.0);
   color: #565656ff;
   margin-top: -8pt;
   margin-bottom: 5pt;
@@ -329,11 +330,13 @@ margin-left: 10pt;
     display: inline-block;
     fill: #{$grey-color};
     padding: 1pt;
-    vertical-align: text-top;
+    vertical-align: middle;
 }
 
 .publication-icon-title {
-	  margin-right: 5pt;
+	 margin-right: 5pt;
+     @include relative-font-size(1.1);
+	 vertical-align: middle;
 }
  
  
