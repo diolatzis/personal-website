@@ -42,9 +42,7 @@ layout: default
 	<div class="scrollable-sec">
 		<ul>
 		  {% for post in site.posts %}
-			  <div class="post-title">•&#9;{{ post.when }}</div>
-			  <div class="post-content">{{ post.content }}</div>
-			  {%- if post.img -%}<img class="post-img" src="{{ post.img }}">{%- endif -%}		  
+			  <div class="post-content">{{ post.content }}</div>  
 		  {% endfor %}
 		</ul>
 	</div>
