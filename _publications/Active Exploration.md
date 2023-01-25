@@ -1,7 +1,7 @@
 ---
-where: ACM Transactions on Graphics 2022 (To be presented at SIGGRAPH 2022)
+where: ACM Transactions on Graphics 2022 (Presented @ SIGGRAPH 2022)
 title: Active Exploration for Neural Global Illumination of Variable Scenes
-authors: <b><a href="{{ "/" | relative_url }}">Stavros Diolatzis</a></b>, <a href="https://julienphilip.com/">Julien Philip</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
+authors: <b><a href="https://sdiolatz.info">Stavros Diolatzis</a></b>, <a href="https://julienphilip.com/">Julien Philip</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
 file: http://www-sop.inria.fr/reves/Basilic/2022/DPD22/active-exploration.pdf
 webpage: https://repo-sam.inria.fr/fungraph/active-exploration/
 teaser_vid: https://gitlab.inria.fr/fungraph/active-exploration/uploads/ad8cc0a87044ea417a82b1e132ce1abc/vid.mp4
@@ -10,7 +10,7 @@ code: https://github.com/diolatzis/active-exploration
 
 # Authors
 
-<b><a href="{{ "/" | relative_url }}">Stavros Diolatzis</a></b>, <a href="https://julienphilip.com/">Julien Philip</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
+<b><a href="https://sdiolatz.info">Stavros Diolatzis</a></b>, <a href="https://julienphilip.com/">Julien Philip</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
 
 <p float="left">
   <a href="http://www-sop.inria.fr/reves/Basilic/2022/DPD22/active-exploration.pdf"><img src="../assets/file.png" width="30" style="vertical-align:middle;margin:0px 5pt 0px"/><span>Paper</span></a>

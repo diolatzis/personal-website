@@ -20,9 +20,9 @@
 
 avatar: "https://user-images.githubusercontent.com/19236056/90320990-82048980-df4e-11ea-8071-c774638b194d.jpg"
 title: Stavros Diolatzis
-email: diolatzis@gmail.com
+email: stavros.diolatzis@intel.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Post-Doc @ GraphDeco Inria
+  Research Scientist @ Intel
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://diolatzis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: StavrosDiol

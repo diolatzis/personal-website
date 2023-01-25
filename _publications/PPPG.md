@@ -1,7 +1,7 @@
 ---
 where: Eurographics Symposium on Rendering 2020
 title: Practical Product Path Guiding Using Linearly Transformed Cosines
-authors: <b><a href="{{ "/" | relative_url }}">Stavros Diolatzis</a></b>, <a href="https://beltegeuse.github.io/research/">Adrien Gruson</a>, <a href="https://rgl.epfl.ch/people/wjakob/">Wenzel Jakob</a>, <a href="http://www.cim.mcgill.ca/~derek/">Derek Nowrouzezahrai</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
+authors: <b><a href="https://sdiolatz.info">Stavros Diolatzis</a></b>, <a href="https://beltegeuse.github.io/research/">Adrien Gruson</a>, <a href="https://rgl.epfl.ch/people/wjakob/">Wenzel Jakob</a>, <a href="http://www.cim.mcgill.ca/~derek/">Derek Nowrouzezahrai</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
 code: https://gitlab.inria.fr/sdiolatz/practical-product-path-guiding
 presentation: https://youtu.be/CAa2APz1hUc?t=45
 file: http://www-sop.inria.fr/reves/Basilic/2020/DGJND20/practical_product_path_guiding_authors.pdf
@@ -11,7 +11,7 @@ teaser_img: https://gitlab.inria.fr/sdiolatz/practical-product-path-guiding/uplo
 
 # Authors
 
-<b><a href="{{ "/" | relative_url }}" >Stavros Diolatzis</a></b>, <a href="https://beltegeuse.github.io/research/">Adrien Gruson</a>, <a href="https://rgl.epfl.ch/people/wjakob/">Wenzel Jakob</a>, <a href="http://www.cim.mcgill.ca/~derek/">Derek Nowrouzezahrai</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
+<b><a href="https://sdiolatz.info">Stavros Diolatzis</a></b>, <a href="https://beltegeuse.github.io/research/">Adrien Gruson</a>, <a href="https://rgl.epfl.ch/people/wjakob/">Wenzel Jakob</a>, <a href="http://www.cim.mcgill.ca/~derek/">Derek Nowrouzezahrai</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
 
 <p float="left">
   <a href="http://www-sop.inria.fr/reves/Basilic/2020/DGJND20/practical_product_path_guiding_authors.pdf"><img src="../assets/file.png" width="30" style="vertical-align:middle;margin:0px 5pt 0px"/><span>Paper</span></a>
