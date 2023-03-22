@@ -1,7 +1,7 @@
 ---
 where: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2023
 title: 'NeRFshop: Interactive Editing of Neural Radiance Fields'
-authors: <a href="https://clementjambon.github.io/">Clément Jambon</a>, <a href="https://www.cg.tuwien.ac.at/staff/BernhardKerbl">Bernhard Kerbl</a>, <a href="https://grgkopanas.github.io/">Georgios Kopanas</a>, <b><a href="https://sdiolatz.info">Stavros Diolatzis</a></b>, <a href="https://julienphilip.com/">Julien Philip</a>, <a href="https://people.mpi-inf.mpg.de/~tleimkue/">Thomas Leimkühler</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
+authors: <a href="https://clementjambon.github.io/">Clément Jambon</a>, <a href="https://www.cg.tuwien.ac.at/staff/BernhardKerbl">Bernhard Kerbl</a>, <a href="https://grgkopanas.github.io/">Georgios Kopanas</a>, <b><a href="https://sdiolatz.info">Stavros Diolatzis</a></b>, <a href="https://people.mpi-inf.mpg.de/~tleimkue/">Thomas Leimkühler</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
 file: http://www-sop.inria.fr/reves/Basilic/2023/JKKDLD23/nerfshop.pdf
 webpage: https://repo-sam.inria.fr/fungraph/nerfshop/
 teaser_vid: https://repo-sam.inria.fr/fungraph/nerfshop/content/videos/lego-cabin.mp4
@@ -10,7 +10,7 @@ code: https://github.com/graphdeco-inria/nerfshop
 
 # Authors
 
-<a href="https://clementjambon.github.io/">Clément Jambon</a>, <a href="https://www.cg.tuwien.ac.at/staff/BernhardKerbl">Bernhard Kerbl</a>, <a href="https://grgkopanas.github.io/">Georgios Kopanas</a>, <b><a href="https://sdiolatz.info">Stavros Diolatzis</a></b>, <a href="https://julienphilip.com/">Julien Philip</a>, <a href="https://people.mpi-inf.mpg.de/~tleimkue/">Thomas Leimkühler</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
+<a href="https://clementjambon.github.io/">Clément Jambon</a>, <a href="https://www.cg.tuwien.ac.at/staff/BernhardKerbl">Bernhard Kerbl</a>, <a href="https://grgkopanas.github.io/">Georgios Kopanas</a>, <b><a href="https://sdiolatz.info">Stavros Diolatzis</a></b>, <a href="https://people.mpi-inf.mpg.de/~tleimkue/">Thomas Leimkühler</a>, <a href="http://www-sop.inria.fr/members/George.Drettakis/">George Drettakis</a>
 
 <p float="left">
   <a href="http://www-sop.inria.fr/reves/Basilic/2023/JKKDLD23/nerfshop.pdf"><img src="../assets/file.png" width="30" style="vertical-align:middle;margin:0px 5pt 0px"/><span>Paper</span></a>
