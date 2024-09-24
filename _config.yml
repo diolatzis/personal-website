@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-avatar: "https://user-images.githubusercontent.com/19236056/90320990-82048980-df4e-11ea-8071-c774638b194d.jpg"
+avatar: "/assets/pic.jpg"
 title: Stavros Diolatzis
 email: stavros.diolatzis@intel.com
 description: >- # this means to ignore newlines until "baseurl:"
